@@ -1,0 +1,9 @@
+{
+  "name": "hashrouter",
+  "description": "Routing for cordova based app.",
+  "homepage": "https://github.com/nicolsondsouza/meteor_hashrouter",
+  "author": "Trinisoft Technologies Pvt. Ltd. (http://www.trinisoft.com)",
+  "version": "0.1.0",
+  "git": "https://github.com/nicolsondsouza/meteor_hashrouter.git",
+  "packages": {}
+}

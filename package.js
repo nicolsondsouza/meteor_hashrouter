@@ -12,7 +12,6 @@ Package.onUse(function(api) {
   api.use('templating');
   api.use('webapp');
 
-  api.add_files('history.js', 'client');
   api.add_files('common.js', ['client',"server"]);
   api.add_files('client.js', 'client');
   
